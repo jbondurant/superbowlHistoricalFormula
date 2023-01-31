@@ -1,0 +1,57 @@
+19670115,1,Green Bay,Packers,NFL,Western,No,Memorial Coliseum,Los Angeles,California,0,0,4,0,4
+19680114,2,Green Bay,Packers,NFL,Central,No,Orange Bowl,Miami,Florida,0,0,5,1,6
+19690112,3,New York,Jets,AFL,East,No,Orange Bowl,Miami,Florida,0,0,5,1,6
+19700111,4,Kansas City,Chiefs,AFL,Western,No,Tulane Stadium,New Orleans,Louisiana,0,0,6,1,7
+19710117,5,Baltimore,Colts,AFC,East,No,Orange Bowl,Miami,Florida,0,0,6,1,7
+19720116,6,Dallas,Cowboys,NFC,East,No,Tulane Stadium,New Orleans,Louisiana,0,0,7,1,8
+19730114,7,Miami,Dolphins,AFC,East,No,Memorial Coliseum,Los Angeles,California,0,0,7,1,8
+19740113,8,Miami,Dolphins,AFC,East,No,Rice Stadium,Houston,Texas,0,0,8,1,9
+19750112,9,Pittsburgh,Steelers,AFC,Central,No,Tulane Stadium,New Orleans,Louisiana,0,0,9,1,10
+19760118,10,Pittsburgh,Steelers,AFC,Central,No,Orange Bowl,Miami,Florida,0,0,9,1,10
+19770109,11,Oakland,Raiders,AFC,West,No,Rose Bowl,Pasadena,California,0,0,9,1,10
+19780115,12,Dallas,Cowboys,NFC,East,No,Superdome,New Orleans,Louisiana,0,0,10,1,11
+19790121,13,Pittsburgh,Steelers,AFC,Central,No,Orange Bowl,Miami,Florida,0,0,10,1,11
+19800120,14,Pittsburgh,Steelers,AFC,Central,No,Rose Bowl,Pasadena,California,0,0,11,1,12
+19810125,15,Oakland,Raiders,AFC,West,No,Louisiana Superdome,New Orleans,Louisiana,0,0,11,1,12
+19820124,16,San Francisco,Fortyniners,NFC,West,No,Pontiac Silverdome,Pontiac,Michigan,0,0,12,1,13
+19830130,17,Washington,Redskins,NFC,East,No,Rose Bowl,Pasadena,California,0,0,12,1,13
+19840122,18,Los Angeles,Raiders,AFC,West,No,Tampa Stadium,Tampa,Florida,0,0,13,2,15
+19850120,19,San Francisco,Fortyniners,NFC,West,No,Stanford Stadium,Palo Alto,California,0,0,13,2,15
+19860126,20,Chicago,Bears,NFC,Central,No,Louisiana Superdome,New Orleans,Louisiana,0,0,14,2,16
+19870125,21,New York,Giants,NFC,East,No,Rose Bowl,Pasadena,California,0,0,14,2,16
+19880131,22,Washington,Redskins,NFC,East,No,Jack Murphy Stadium,San Diego,California,0,0,15,2,17
+19890122,23,San Francisco,Fortyniners,NFC,West,No,Joe Robbie Stadium,Miami Gardens,Florida,0,0,15,2,17
+19900128,24,San Francisco,Fortyniners,NFC,West,No,Louisiana Superdome,New Orleans,Louisiana,1,0,16,2,18
+19910127,25,New York,Giants,NFC,East,No,Tampa Stadium,Tampa,Florida,2,0,16,2,18
+19920126,26,Washington,Redskins,NFC,East,No,Metrodome,Minneapolis,Minnesota,3,0,16,2,18
+19930131,27,Dallas,Cowboys,NFC,East,No,Rose Bowl,Pasadena,California,4,0,16,2,18
+19940130,28,Dallas,Cowboys,NFC,East,No,Georgia Dome,Atlanta,Georgia,5,0,16,2,18
+19950129,29,San Francisco,Fortyniners,NFC,West,No,Joe Robbie Stadium,Miami Gardens,Florida,6,0,16,2,18
+19960128,30,Dallas,Cowboys,NFC,East,No,Sun Devil Stadium,Tempe,Arizona,7,0,17,2,19
+19970126,31,Green Bay,Packers,NFC,Central,No,Louisiana Superdome,New Orleans,Louisiana,8,0,17,2,19
+19980125,32,Denver,Broncos,AFC,West,No,Qualcomm Stadium,San Diego,California,9,0,18,2,20
+19990131,33,Denver,Broncos,AFC,West,No,Pro Player Stadium,Miami Gardens,Florida,10,0,18,2,20
+20000130,34,St. Louis,Rams,NFC,West,No,Georgia Dome,Atlanta,Georgia,11,0,19,2,21
+20010128,35,Baltimore,Ravens,AFC,Central,Yes,Raymond James Stadium,Tampa,Florida,12,0,19,2,21
+20020203,36,New England,Patriots,AFC,East,No,Louisiana Superdome,New Orleans,Louisiana,13,0,19,2,21
+20030126,37,Tampa Bay,Buccaneers,NFC,South,No,Qualcomm Stadium,San Diego,California,14,0,20,2,22
+20040201,38,New England,Patriots,AFC,East,No,Reliant Stadium,Houston,Texas,15,0,20,2,22
+20050206,39,New England,Patriots,AFC,East,No,Alltel Stadium,Jacksonville,Florida,16,0,20,2,22
+20060205,40,Pittsburgh,Steelers,AFC,North,No,Ford Field,Detroit,Michigan,17,0,20,2,22
+20070204,41,Indianapolis,Colts,AFC,South,No,Dolphin Stadium,Miami Gardens,Florida,18,0,21,2,23
+20080203,42,New York,Giants,NFC,East,No,University of Phoenix Stadium,Glendale,Arizona,19,0,21,2,23
+20090201,43,Pittsburgh,Steelers,AFC,North,No,Raymond James Stadium,Tampa,Florida,20,0,22,2,24
+20100207,44,New Orleans,Saints,NFC,South,No,Sun Life Stadium,Miami Gardens,Florida,21,0,22,2,24
+20110206,45,Green Bay,Packers,NFC,North,No,Cowboys Stadium,Arlington,Texas,22,0,22,2,24
+20120205,46,New York,Giants,NFC,East,No,Lucas Oil Stadium,Indianapolis,Indiana,23,0,22,2,24
+20130203,47,Baltimore,Ravens,AFC,North,Yes,Mercedes-Benz Superdome,New Orleans,Louisiana,24,0,23,2,25
+20140204,48,Seattle,Seahawks,NFC,West,Yes,MetLife Stadium,East Rutherford,New Jersey,25,0,23,2,25
+20150201,49,New England,Patriots,AFC,East,No,University of Phoenix Stadium,Glendale,Arizona,26,0,23,2,25
+20160207,50,Denver,Broncos,AFC,West,No,Levi's Stadium,Santa Clara,California,27,0,24,2,26
+20170205,51,New England,Patriots,AFC,East,No,NRG Stadium,Houston,Texas,28,0,24,2,26
+20180204,52,Philadelphia,Eagles,NFC,East,Yes,U.S. Bank Stadium,Minneapolis,Minnesota,29,1,24,2,26
+20190203,53,New England,Patriots,AFC,East,No,Mercedes-Benz Stadium,Atlanta,Georgia,30,2,24,2,26
+20200202,54,Kansas City,Chiefs,AFC,West,No,Hard Rock Stadium,Miami Gardens,Florida,31,2,24,2,26
+20210207,55,Tampa Bay,Buccaneers,NFC,South,No,Raymond James Stadium,Tampa,Florida,32,2,24,2,26
+20220213,56,Los Angeles,Rams,NFC,West,No,SoFi Stadium,Inglewood,California,33,2,25,2,27
+20230212,57,,,,,,State Farm Stadium,Glendale,Arizona,34,2,25,2,27
